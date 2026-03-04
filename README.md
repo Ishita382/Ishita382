@@ -51,16 +51,6 @@ Passionate about building scalable, user-friendly, and performant web applicatio
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ishita382&show_icons=true&theme=tokyonight" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishita382&layout=compact&theme=tokyonight" />
-
-</p>
-
 # 🔥 GitHub Streak
 
 <p align="center">
