@@ -77,7 +77,7 @@ Passionate about building scalable, user-friendly, and performant web applicatio
 
 # 👀 Profile Views
 
-<p align="center">
+<p align="left">
 <img src="https://komarev.com/ghpvc/?username=ishita382&color=blue" />
 </p>
 
