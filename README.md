@@ -59,14 +59,6 @@ Passionate about building scalable, user-friendly, and performant web applicatio
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ishita382" />
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p>
