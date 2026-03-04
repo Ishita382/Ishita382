@@ -53,7 +53,7 @@ Passionate about building scalable, user-friendly, and performant web applicatio
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishita382&theme=tokyonight" />
 </p>
 
